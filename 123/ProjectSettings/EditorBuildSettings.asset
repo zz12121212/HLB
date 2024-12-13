@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TheScenes/Start.unity
+    guid: 972f4afcccc69e746ba9970d78ee8f72
+  - enabled: 1
+    path: Assets/TheScenes/111.unity
+    guid: 189c956272bb721419895ac9876a9aea
+  - enabled: 1
+    path: Assets/TheScenes/222.unity
+    guid: 2c017cb800fa89648ad82ef1c3464daa
+  - enabled: 1
+    path: Assets/TheScenes/333.unity
+    guid: 3ce43ac1e57a6194ca2a044381cd3907
+  - enabled: 1
+    path: Assets/TheScenes/444.unity
+    guid: a10902a289866e84ba3aefb98f6fce14
+  - enabled: 1
+    path: Assets/TheScenes/555.unity
+    guid: 93b246a40fe835a4e944281fd471d90b
+  - enabled: 1
+    path: Assets/TheScenes/Die.unity
+    guid: e9945f85624f7d0488c86bcce01f3c02
+  - enabled: 1
+    path: Assets/TheScenes/Book.unity
+    guid: c05e862b43d857f49a7847132c2a0bb4
+  - enabled: 1
+    path: Assets/TheScenes/FinalWar.unity
+    guid: fcaa1fd78aa83564397512f9114df115
+  - enabled: 1
+    path: Assets/TheScenes/FinalEnd.unity
+    guid: 3ac1ac5dbc0ead246831ec6d66d5c438
+  - enabled: 1
+    path: Assets/TheScenes/End1.unity
+    guid: f6e034ef5b3b20d4fb3abbf512290736
+  - enabled: 1
+    path: Assets/TheScenes/End2.unity
+    guid: 35628e4e5750d1943a20bd3c50306d06
+  m_configObjects: {}
